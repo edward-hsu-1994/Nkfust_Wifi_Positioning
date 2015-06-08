@@ -1,0 +1,9 @@
+C:\Users\XuPeiYao\Desktop\Wifi Rssi Logger\Wifi Rssi Logger\obj\Debug\Wifi Rssi Logger.csprojResolveAssemblyReference.cache
+C:\Users\XuPeiYao\Desktop\Wifi Rssi Logger\Wifi Rssi Logger\bin\Debug\Wifi Rssi Logger.exe.config
+C:\Users\XuPeiYao\Desktop\Wifi Rssi Logger\Wifi Rssi Logger\bin\Debug\Wifi Rssi Logger.exe
+C:\Users\XuPeiYao\Desktop\Wifi Rssi Logger\Wifi Rssi Logger\bin\Debug\Wifi Rssi Logger.pdb
+C:\Users\XuPeiYao\Desktop\Wifi Rssi Logger\Wifi Rssi Logger\bin\Debug\NativeWifi.dll
+C:\Users\XuPeiYao\Desktop\Wifi Rssi Logger\Wifi Rssi Logger\bin\Debug\NativeWifi.pdb
+C:\Users\XuPeiYao\Desktop\Wifi Rssi Logger\Wifi Rssi Logger\obj\Debug\Wifi Rssi Logger.exe
+C:\Users\XuPeiYao\Desktop\Wifi Rssi Logger\Wifi Rssi Logger\obj\Debug\Wifi Rssi Logger.pdb
+C:\Users\XuPeiYao\Desktop\Wifi Rssi Logger\Wifi Rssi Logger\bin\Debug\Gamma.dll

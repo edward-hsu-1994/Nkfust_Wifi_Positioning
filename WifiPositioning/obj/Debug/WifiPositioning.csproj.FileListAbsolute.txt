@@ -1,0 +1,6 @@
+C:\Users\XuPeiYao\Desktop\Wifi Rssi Logger\WifiPositioning\bin\Debug\WifiPositioning.exe.config
+C:\Users\XuPeiYao\Desktop\Wifi Rssi Logger\WifiPositioning\bin\Debug\WifiPositioning.exe
+C:\Users\XuPeiYao\Desktop\Wifi Rssi Logger\WifiPositioning\bin\Debug\WifiPositioning.pdb
+C:\Users\XuPeiYao\Desktop\Wifi Rssi Logger\WifiPositioning\obj\Debug\WifiPositioning.csprojResolveAssemblyReference.cache
+C:\Users\XuPeiYao\Desktop\Wifi Rssi Logger\WifiPositioning\obj\Debug\WifiPositioning.exe
+C:\Users\XuPeiYao\Desktop\Wifi Rssi Logger\WifiPositioning\obj\Debug\WifiPositioning.pdb
